@@ -38,12 +38,8 @@ const LoginPage: React.FC = () => {
             required
           />
            <div className="text-xs text-gray-500">
-              <p className="font-semibold">Demo emails:</p>
-              <ul className="list-disc list-inside">
-                  <li>admin@connecttify.com</li>
-                  <li>alumni@connecttify.com</li>
-                  <li>student@connecttify.com</li>
-              </ul>
+              
+              
           </div>
           <Button type="submit" className="w-full" size="lg">
             Log In
